@@ -1,7 +1,7 @@
 SparkFun MEMS Microphone Breakout - INMP401 (ADMP401)
 ===================================================
 
-![SparkFun MEMS Microphone Breakout - INMP401](https://cdn.sparkfun.com//assets/parts/3/9/5/1/09868-01.jpg)
+[![SparkFun MEMS Microphone Breakout - INMP401](https://cdn.sparkfun.com//assets/parts/3/9/5/1/09868-01a.jpg)](https://www.sparkfun.com/products/9868)
 
 [*SparkFun MEMS Microphone Breakout - INMP401 (ADMP401) (BOB-09868)*](https://www.sparkfun.com/products/9868)
 
@@ -12,6 +12,10 @@ Repository Contents
 * **/Firmware** - Example Arduino Sketches 
 * **/Hardware** - All Eagle design files (.brd, .sch)
 
+
+Documentation
+--------------
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/mems-microphone-hookup-guide)** - Basic hookup guide.
 
 License Information
 -------------------
