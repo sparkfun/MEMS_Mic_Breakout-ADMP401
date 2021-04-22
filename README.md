@@ -1,4 +1,4 @@
-**NOTE:** *This product has been retired from our catalog due to the IC being EOL. If you are looking for more up-to-date info, please check out the following resource to see how other users are still hacking and improving on this product.*
+**NOTE:** *This product has been retired from our catalog due to the IC being EOL. We recommend checking out the [ICS-40180](https://www.sparkfun.com/products/18011) as an alternative. While the ICS-40180 has similar characteristics, note that the footprint is different than the ADMP401. If you are looking for more up-to-date info, please check out the following resource to see how other users are still hacking and improving on this product.*
 
 * *[SparkFun Forum](https://forum.sparkfun.com/)*
 
