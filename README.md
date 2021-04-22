@@ -1,3 +1,7 @@
+**NOTE:** *This product has been retired from our catalog due to the IC being EOL. If you are looking for more up-to-date info, please check out the following resource to see how other users are still hacking and improving on this product.*
+
+* *[SparkFun Forum](https://forum.sparkfun.com/)*
+
 SparkFun MEMS Microphone Breakout - INMP401 (ADMP401)
 ===================================================
 
